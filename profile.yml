@@ -1,1 +1,8 @@
-
+team:
+ name: IT-Patner
+ level: 1
+members:
+- role: Developer
+name: Anansak Aiamarram
+- role: Operations
+name: Meka Teja
